@@ -1,0 +1,15 @@
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\DebuggerForm.exe.config
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\DebuggerForm.exe
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\DebuggerForm.pdb
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\Debugger.Core.dll
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\Debugger.Core.pdb
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\obj\Debug\DebuggerForm.csprojResolveAssemblyReference.cache
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\obj\Debug\DebuggerForm.Form1.resources
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\obj\Debug\DebuggerForm.Properties.Resources.resources
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\obj\Debug\DebuggerForm.csproj.GenerateResource.Cache
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\obj\Debug\DebuggerForm.exe
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\obj\Debug\DebuggerForm.pdb
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\ICSharpCode.NRefactory.Cecil.dll
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\Mono.Cecil.dll
+D:\Programowanie\Debugger\DebuggerForm\DebuggerForm\bin\Debug\Mono.Cecil.pdb
